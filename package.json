@@ -14,6 +14,6 @@
     "read-pkg-up": "^4.0.0"
   },
   "devDependencies": {
-    "renovate-config-nju33": "^0.0.1"
+    "renovate-config-nju33": "0.0.1"
   }
 }
