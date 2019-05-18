@@ -11,7 +11,7 @@
   "scripts": {},
   "dependencies": {
     "meow": "^5.0.0",
-    "read-pkg-up": "^4.0.0"
+    "read-pkg-up": "^6.0.0"
   },
   "devDependencies": {
     "renovate-config-nju33": "0.0.1"
